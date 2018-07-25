@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="stepsI&amp;II"
+    errors="0" failures="0" hostname="" id="" package="stepsI&amp;II" skipped="0"
+    tests="2" time="9.709" timestamp="Wed, 25 Jul 2018 03:49:50 GMT">
+  
+    <testcase name="Q6M-27 input &amp; submit" classname="stepsI&amp;II" time="8.449" assertions="17">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Q6M-28 Examine Card Elements" classname="stepsI&amp;II" time="1.260" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
